@@ -1,4 +1,3 @@
 <?php
 echo 'hello, world';
-jjjjj
-aaa
+echo "sample"
