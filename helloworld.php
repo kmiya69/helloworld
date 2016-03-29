@@ -2,4 +2,4 @@
 echo "hello, world";
 echo "sample add";
 echo "test";
-echo "test01";
+echo "test02";
